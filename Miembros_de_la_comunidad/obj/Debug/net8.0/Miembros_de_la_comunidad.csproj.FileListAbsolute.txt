@@ -1,0 +1,14 @@
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\bin\Debug\net8.0\Miembros_de_la_comunidad.exe
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\bin\Debug\net8.0\Miembros_de_la_comunidad.deps.json
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\bin\Debug\net8.0\Miembros_de_la_comunidad.runtimeconfig.json
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\bin\Debug\net8.0\Miembros_de_la_comunidad.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\bin\Debug\net8.0\Miembros_de_la_comunidad.pdb
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\obj\Debug\net8.0\Miembros_de_la_comunidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\obj\Debug\net8.0\Miembros_de_la_comunidad.AssemblyInfoInputs.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\obj\Debug\net8.0\Miembros_de_la_comunidad.AssemblyInfo.cs
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\obj\Debug\net8.0\Miembros_de_la_comunidad.csproj.CoreCompileInputs.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\obj\Debug\net8.0\Miembros_de_la_comunidad.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\obj\Debug\net8.0\refint\Miembros_de_la_comunidad.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\obj\Debug\net8.0\Miembros_de_la_comunidad.pdb
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\obj\Debug\net8.0\Miembros_de_la_comunidad.genruntimeconfig.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Miembros_de_la_comunidad\Miembros_de_la_comunidad\obj\Debug\net8.0\ref\Miembros_de_la_comunidad.dll
